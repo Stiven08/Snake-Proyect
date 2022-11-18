@@ -1,7 +1,7 @@
 # PROYECTO SNAKE
 Autores: 
-        Wilson Fabian Cruz Andrade
-        Brayan Stiven Oviedo Calderón
+- Wilson Fabian Cruz Andrade
+- Brayan Stiven Oviedo Calderón
 
 Ficha: 2502640
 
